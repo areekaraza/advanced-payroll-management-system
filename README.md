@@ -206,13 +206,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Enhanced for professional portfolio demonstration
 - Designed with real-world business requirements in mind
 
-## 📞 Contact
-
-**Developer**: [Your Name]  
-**Email**: [your.email@example.com]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Portfolio**: [Your Portfolio Website]
-
 ---
 
 ⭐ **Star this repository if you find it helpful!** ⭐
