@@ -203,7 +203,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🏆 Acknowledgments
 
 - Developed as part of advanced Java programming coursework
-- Enhanced for professional portfolio demonstration
 - Designed with real-world business requirements in mind
 
 ---
