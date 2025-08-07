@@ -7,8 +7,6 @@
 
 > A comprehensive Java-based payroll management system designed for modern businesses with support for multiple employee types, automated calculations, and professional reporting capabilities.
 
-![Payroll System Demo](https://via.placeholder.com/800x400/2C3E50/FFFFFF?text=Advanced+Payroll+Management+System)
-
 ## 🚀 Features
 
 ### 💼 Employee Management
